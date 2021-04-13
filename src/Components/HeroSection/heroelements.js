@@ -49,6 +49,8 @@ align-items:center;
 
 margin-bottom:0;
 
+margin-bottom:120px;
+
 `
 
 export const HeroH1= styled.h1`
