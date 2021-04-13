@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mxdauto/static/css/main.aeecdf70.chunk.css",
-    "main.js": "/mxdauto/static/js/main.c856d751.chunk.js",
-    "main.js.map": "/mxdauto/static/js/main.c856d751.chunk.js.map",
+    "main.js": "/mxdauto/static/js/main.ab7e64c6.chunk.js",
+    "main.js.map": "/mxdauto/static/js/main.ab7e64c6.chunk.js.map",
     "runtime-main.js": "/mxdauto/static/js/runtime-main.2e8e1d56.js",
     "runtime-main.js.map": "/mxdauto/static/js/runtime-main.2e8e1d56.js.map",
     "static/js/2.eacab7a7.chunk.js": "/mxdauto/static/js/2.eacab7a7.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.2e8e1d56.js",
     "static/js/2.eacab7a7.chunk.js",
     "static/css/main.aeecdf70.chunk.css",
-    "static/js/main.c856d751.chunk.js"
+    "static/js/main.ab7e64c6.chunk.js"
   ]
 }
