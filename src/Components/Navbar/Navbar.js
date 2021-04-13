@@ -10,7 +10,7 @@ const Navbar = ({toggle}) => {
 
 
          <NavbarContainer >
-             <Navlogo to='/love'>edge</Navlogo>
+             <Navlogo to='/love'>mxd</Navlogo>
        
 
 
