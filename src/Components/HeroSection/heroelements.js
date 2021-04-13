@@ -14,6 +14,18 @@ padding:0 30px;
 position:relative;
 z-index:1;
 background:yellow;
+
+
+@media screen and (max-width:375px){
+    height:650px;
+}
+
+
+@media screen and (max-width:375px){
+    height:650px;
+}
+
+
 `
 
 
@@ -47,9 +59,13 @@ display:flex;
 flex-direction:column;
 align-items:center;
 
-margin-bottom:0;
 
 margin-bottom:120px;
+
+
+@media screen and (max-width:375px){
+    margin-bottom:70px;
+}
 
 `
 
